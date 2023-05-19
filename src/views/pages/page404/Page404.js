@@ -20,7 +20,7 @@ const Page404 = () => {
                 The page you are looking for was not found.
                 <br /> <br />
                 <Link to="/">
-                  <CButton>Back to home</CButton>
+                  <CButton>Get outta here!</CButton>
                 </Link>
               </p>
             </div>
